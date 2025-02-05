@@ -1,0 +1,23 @@
+{
+  "name": "my-express-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/partfix/intro_node-js_express-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/partfix/intro_node-js_express-js/issues"
+  },
+  "homepage": "https://github.com/partfix/intro_node-js_express-js#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
